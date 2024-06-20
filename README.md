@@ -11,7 +11,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
    <p align="center">
 <a href="https://github.com/MrMasterOfc">
-    <img src="https://telegra.ph/file/74b612f51b7a5750191af.jpg" width="900px">
+    <img src="https://telegra.ph/file/624d042aed992b73b60fe.jpg" width="900px">
   </a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
