@@ -1,5 +1,5 @@
 {
-  "name": "MASTER-MD",
+  "name": "VISHWA-MD",
   "version": "2.0.0",
   "description": "",
   "main": "index.js",
@@ -12,12 +12,12 @@
   "keywords": [
     "bot",
     "Baileys",
-    "master-Md",
+    "VISHWA-MD",
     "whatsapp",
     "whatsapp-bot",
     "master"
   ],
-  "author": "sahan",
+  "author": "vishwa",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
