@@ -1,4 +1,4 @@
- VISHWA-MD WHATSAPP USER BOT CREATED BY MR SAHAN OFC 💀🔥
+ VISHWA-MD WHATSAPP USER BOT CREATED BY MR  VISHWA KODITHUWAKKU 💀🔥
 
 <div align="center">
     ✨<b>VISHWA-MD USER BOT</b>✨</b> 
@@ -17,7 +17,7 @@
   
 VISHWA-MD WHATSAPP USER BOT
 
-      VISHSA-MD බොට් යනු මාගෙ ප්‍රථම WhatsApp Bot ය.   |  MASTER-MD බොට් යනු ඔබට පහසුවෙන් භාවිත කල හැකි බොට් වරයෙකි.
+      VISHWA-MD බොට් යනු මාගෙ ප්‍රථම WhatsApp Bot ය.   |  MASTER-MD බොට් යනු ඔබට පහසුවෙන් භාවිත කල හැකි බොට් වරයෙකි.
       
 VISHAWA-MD DEPLOY TEMPLATE
 
