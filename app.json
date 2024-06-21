@@ -1,5 +1,5 @@
 {
-  "name":"MASTER-MD",
+  "name":"WISHWA-MD",
   "description":"An easy and simple WhatsApp bot developed by Sahan Maduwantha",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/3b5e3a9b55b5ec0df4bf8.jpg",
@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"MASTER-MD",
+      "value":"WISHWA-MD",
       "required":false
 
     } ,
@@ -74,7 +74,7 @@
     
     "desc": "📌 Dont chchange (වෙනස් කරන්න එපා)",
     "required": false,
-    "value": "MASTER"
+    "value": "VISHWA"
   },
     "OWNER_NUMBER":
   {
