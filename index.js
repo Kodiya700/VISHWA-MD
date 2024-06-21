@@ -858,10 +858,10 @@ ${metadata.desc}
                 
                 if((conf.DP).toLowerCase() === 'yes') {     
                 let cmsg = `
-*MASTER-MD IS CONNECTED ✅*
+*VISHWA-MD IS CONNECTED ✅*
 
      
-║❒Creator: *SAHAN*
+║❒Creator: *VISHWA*
 ║❒Prefix : [ ${prefixe} ]
 ║❒Mode :${md}
 ║❒Time : ${temps} 
