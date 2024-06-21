@@ -1,7 +1,7 @@
- MASTER-MD WHATSAPP USER BOT CREATED BY MR SAHAN OFC 💀🔥
+ VISHWA-MD WHATSAPP USER BOT CREATED BY MR SAHAN OFC 💀🔥
 
 <div align="center">
-    ✨<b>MASTER-MD USER BOT</b>✨</b> 
+    ✨<b>VISHWA-MD USER BOT</b>✨</b> 
 
 
 <div align="left">
@@ -15,11 +15,11 @@
   </a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
-MASTER-MD WHATSAPP USER BOT
+VISHWA-MD WHATSAPP USER BOT
 
-      MASTER-MD බොට් යනු මාගෙ ප්‍රථම WhatsApp Bot ය.   |  MASTER-MD බොට් යනු ඔබට පහසුවෙන් භාවිත කල හැකි බොට් වරයෙකි.
+      VISHSA-MD බොට් යනු මාගෙ ප්‍රථම WhatsApp Bot ය.   |  MASTER-MD බොට් යනු ඔබට පහසුවෙන් භාවිත කල හැකි බොට් වරයෙකි.
       
-MASTER-MD DEPLOY TEMPLATE
+VISHAWA-MD DEPLOY TEMPLATE
 
         https://heroku.com/deploy?template=
 
@@ -27,7 +27,7 @@ MASTER-MD DEPLOY TEMPLATE
 
 <p align="center">
 
-  <a aria-label="WhatsApp Supported Channel" href="https://whatsapp.com/channel/0029VaWWZa1G3R3c4TPADo0M" target="_blank">
+  <a aria-label="WhatsApp Supported Channel" href="https://whatsapp.com/channel/0029VaiIBc57Noa9NF5p1o3W" target="_blank">
       <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
@@ -52,7 +52,7 @@ MASTER-MD DEPLOY TEMPLATE
 ### Contact My Main Owner
  <p align="center">
 
-  <a aria-label="Owner WhatsApp Channel" href="https://wa.me/+94720797915?text=Hey_Sahan_🔥" target="_blank">
+  <a aria-label="Owner WhatsApp Channel" href="https://wa.me/+94788134387?text=Hey_vishwa_🔥" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/WhatsApp Owner-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 
@@ -64,5 +64,5 @@ My First WhatsApp User Bot Project</h2>
 
 `Thanks To,`
 
-1: [`Me_😂🧛‍♂️`](https://wa.me/+94720797915)
+1: [`Me_😂🧛‍♂️`](https://wa.me/+94788134387)
 
