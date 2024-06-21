@@ -41,7 +41,7 @@ VISHAWA-MD DEPLOY TEMPLATE
 
 <br>
 
-<a href="https://vishwa-deploy.vercel.app/"><img src="https://img.shields.io/badge/DEPLOY-BUTTON-black" alt="DEPLOY BUTTON" width="250"></a>
+<a href="https://sahan-deploy.vercel.app/"><img src="https://img.shields.io/badge/DEPLOY-BUTTON-black" alt="DEPLOY BUTTON" width="250"></a>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
