@@ -1,117 +1,65 @@
 {
-  "name":"WISHWA-MD",
-  "description":"An easy and simple WhatsApp bot developed by vishwa kodithuwakku",
-  "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/3b5e3a9b55b5ec0df4bf8.jpg",
-  "repository":"https://github.com/Kodiya700/VISHWA-MD/",
-  "succes_url":"/",
-  "stack":"container",
-  "env":{
-    "PREFIX":
-    {
-      "description":"choose your prefix of bot",
-      "value":".",
-      "required":true
-    },
-    "AUTO_READ_STATUS":
-    {
-      "description":"Your contact status will be read automatically(type yes to active or no to deactive  ; don't write in capital letter)",
-      "value":"yes",
-      "required":false
-    }, "AUTO_DOWNLOAD_STATUS":
-    {
-      "description":"Your contact status will be download automatically and send to you(type yes to active or no to deactive ; don't write in capital letter)",
-      "value":"yes",
-      "required":false
-    }
-    ,
-     "PM_PERMIT" :
-     {
-      "description":"Other user can't use your bot in pm (type yes to active or no to deactive ; don't write in capital letter)",
-      "value":"no",
-      "required":false
-    }
-    ,
-    "BOT_NAME" : {
-       
-      "description":"put A name for your bot",
-      "value":"WISHWA-MD",
-      "required":false
+  "name": "VISHWA-MD",
+  "description": "VISHWA-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+  "logo": "https://telegra.ph/file/624d042aed992b73b60fe.jpg",
+  "keywords": ["queendew", "bot", "whatsapp bot", "multi device", "queen-dew"],
+  "success_url": "/",
 
-    } ,
-     "BOT_MENU_LINKS" : {
-    
-      "description":"📌 Dont change ",
-      "value":"https://telegra.ph/file/74b612f51b7a5750191af.jpg",
-      "required":false
-       
-     },
-    "PUBLIC_MODE":
-    {
-      "description":"type yes to put your bot on public mode or no to put it on private mod",
-      "value":"yes",
-      "required":false
-    }
-	,
-    "HEROKU_API_KEY": {
-    "description": "insert your heroku api-key (this is optionnal)",
-     "required" :false
-    },
-   "HEROKU_APP_NAME": {
-    "description": "insert your heroku APP NAME (this is optionnal)",
-     "required" :false
-    }  
-	  ,
-    "SESSION_ID":
-    {
-      "description":"put your session ID , make sure it starts with eyJub2I...",   
-      "value":"",
+  "env": {
+    "OWNER": {
+      "description": "Put the number here.",
       "required": true
+    },  
 
+    "SESSION_ID": {
+      "description": "Enter session-id here",
+      "required": false
     },
-    "OWNER_NAME":
-    {
-    
-    "desc": "📌 Dont chchange (වෙනස් කරන්න එපා)",
-    "required": false,
-    "value": "VISHWA"
-  },
-    "OWNER_NUMBER":
-  {
-    
-    "desc": "📌 Dont chchange (වෙනස් කරන්න එපා)",
-    "required":false,
-    "value": "94720797915"
-  },
-    "WARN_COUNT":
-  {
-    "desc": "this is the limit of warn for warning commandes",
-    "required": false,
-    "value": "3"
-  },
-  "STARTING_BOT_MESSAGE":
-  {
-    "description": "if you don't want startting-bot-message put no else put yes",
-    "required": true,
-    "value": "yes"
-  },
-  "PRESENCE":{
-    "description":"📌 ALWAYS ONLINE 1 /📌 TYPING 2 /📌 RECORDING AUDIO.... 3🌟 ඔයාට ඔන අංකය type කරන්න 🌟",
-    "value":"",
-    "required": false
-  }  
-  },
- 
-  "formation": {
-		"worker": {
-			"quantity": 1,
-			"size": "basic" 
-		}
-	},
 
-  "addons":[
-    {
-      "plan":"heroku-postgresql"
-    }
-  ]
+  
+
+    "PREFIX": {
+      "description": "Bot prefix (.,/,@)",
+      "required": false
+ },
+
+
+
+    "LOGO": {
+      "description": "Bot logo",
+      "required": false
+ },
+
+
+    
+    "AUTO_VOICE": {
+      "description": "Bot Voice",
+      "required": false
+ },
+    
+
+    
+    "ONLY_GROUP": {
+      "description": "Work on only groups",
+      "required": true
+    },
+
+
+    "ONLY_ME": {
+      "description": "Work on only You",
+      "required": true
+    },
+    
+    "ALIVE": {
+      "description": "Put your alive message.",
+      "required": true
+    }   
+},
+
+     "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        }
+     ],
+  "stack": "heroku-22"
 }
